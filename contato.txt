@@ -1,1 +1,3 @@
-Huliane Medeiros da Silva
+nome: Huliane Medeiros da Silva
+e-mail: hulianeufrn@gmail.com
+usuário: huliane
